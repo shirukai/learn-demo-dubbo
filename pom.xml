@@ -26,6 +26,7 @@
         <module>dubbo-demo-xml</module>
         <module>dubbo-demo-annotation</module>
         <module>dubbo-demo-springboot</module>
+        <module>dubbo-demo-registry</module>
     </modules>
 
 </project>
