@@ -23,6 +23,7 @@
     </build>
     <modules>
         <module>dubbo-demo-api</module>
+        <module>dubbo-demo-xml</module>
     </modules>
 
 </project>
